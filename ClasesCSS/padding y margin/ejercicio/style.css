@@ -1,0 +1,54 @@
+body{
+    font-family: sans-serif;
+    color: white;
+}
+
+.card {
+    background: coral;
+    text-align: center;
+    width: 280px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 0 #0008;
+}
+
+.card_img {
+    margin-top: 14px;
+    width: 100px;
+    border-radius: 100%;
+}
+
+.card_title {
+    padding: 2px;
+    font-size: 22px;
+    margin: 0;
+}
+
+.card_subtitle {
+    margin: 0;
+    font-size: 13px;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+.card_content{
+    font-size: 9px;
+    padding: 5px 20px 0px 20px;
+    text-align: justify;
+}
+
+
+.card-dos {
+    background: #3ab;
+}
+
+.card-tres {
+    background: #0b5;
+}
+
+.card-cuatro {
+    background: #fb5;
+}
